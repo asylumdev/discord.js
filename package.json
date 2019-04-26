@@ -40,6 +40,7 @@
     "pako": "^1.0.0",
     "prism-media": "amishshah/prism-media",
     "setimmediate": "^1.0.5",
+    "fastws": "asylumdev/fastws",
     "tweetnacl": "^1.0.0",
     "ws": "^6.0.0"
   },
